@@ -1,0 +1,9 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/logout/page": "app/logout/page.js",
+  "/(app)/escola/dashboard/page": "app/(app)/escola/dashboard/page.js",
+  "/(app)/escola/indicadores/page": "app/(app)/escola/indicadores/page.js",
+  "/(app)/escola/relatorios/page": "app/(app)/escola/relatorios/page.js",
+  "/(app)/escola/config/page": "app/(app)/escola/config/page.js",
+  "/(public)/(auth)/login/page": "app/(public)/(auth)/login/page.js"
+}

@@ -1,0 +1,56 @@
+
+{
+  "turmas": ["6A", "7A", "8B"],
+  "atividades": [
+    {
+      "id": "ATV-001",
+      "data": "2025-10-14",
+      "turma": "7A",
+      "titulo": "Circuito funcional",
+      "descricao": "3x10 burpees, 3x15 agachamentos, 3x20 polichinelos",
+      "duracaoMin": 20,
+      "tipo": "força",
+      "videos": ["VID-10"]
+    },
+    {
+      "id": "ATV-002",
+      "data": "2025-10-15",
+      "turma": "7A",
+      "titulo": "Mobilidade + alongamento",
+      "descricao": "Sequência de 15 minutos focando quadril e ombros",
+      "duracaoMin": 15,
+      "tipo": "mobilidade",
+      "videos": ["VID-02", "VID-07"]
+    },
+    {
+      "id": "ATV-003",
+      "data": "2025-10-16",
+      "turma": "7A",
+      "titulo": "Desafio de passos",
+      "descricao": "Meta: 4.000 passos no dia",
+      "duracaoMin": 30,
+      "tipo": "cardio",
+      "videos": []
+    },
+    {
+      "id": "ATV-004",
+      "data": "2025-10-14",
+      "turma": "6A",
+      "titulo": "Jogo cooperativo",
+      "descricao": "Revezamento em duplas com cones",
+      "duracaoMin": 25,
+      "tipo": "cooperativo",
+      "videos": ["VID-12"]
+    },
+    {
+      "id": "ATV-005",
+      "data": "2025-10-17",
+      "turma": "8B",
+      "titulo": "Resistência leve",
+      "descricao": "2km de trote alternado com caminhada",
+      "duracaoMin": 18,
+      "tipo": "cardio",
+      "videos": []
+    }
+  ]
+}

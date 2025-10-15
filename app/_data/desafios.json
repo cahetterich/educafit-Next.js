@@ -1,0 +1,15 @@
+{
+  "regras": {
+    "pontosPorConclusao": 10,
+    "milestones": [
+      { "qtd": 1, "badge": "Primeiro Passo" },
+      { "qtd": 3, "badge": "Trinca Ativa" },
+      { "qtd": 5, "badge": "Semana Ouro" }
+    ]
+  },
+  "rankingBase": [
+    { "turma": "7A", "ra": "A002", "nome": "Bruno", "pontos": 60 },
+    { "turma": "7A", "ra": "A003", "nome": "Carla", "pontos": 40 },
+    { "turma": "7A", "ra": "A004", "nome": "Duda", "pontos": 20 }
+  ]
+}

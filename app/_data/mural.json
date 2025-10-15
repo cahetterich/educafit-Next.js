@@ -1,0 +1,18 @@
+{
+  "posts": [
+    {
+      "id": "P-100",
+      "autor": "Bruno (7A)",
+      "texto": "Concluí o circuito funcional hoje! 💥",
+      "data": "2025-10-14T08:30:00Z",
+      "reacoes": { "clap": 3, "like": 2, "flex": 1 }
+    },
+    {
+      "id": "P-101",
+      "autor": "Carla (7A)",
+      "texto": "Minha meta foi 4.200 passos ontem! 🚶‍♀️",
+      "data": "2025-10-13T21:10:00Z",
+      "reacoes": { "clap": 5, "like": 1, "flex": 0 }
+    }
+  ]
+}

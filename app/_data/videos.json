@@ -1,0 +1,10 @@
+{
+  "categorias": ["força", "mobilidade", "cardio", "cooperativo"],
+  "itens": [
+    { "id": "VID-02", "titulo": "Alongamento básico (10min)", "duracaoMin": 10, "categoria": "mobilidade", "thumb": "/thumbs/alongamento.jpg" },
+    { "id": "VID-07", "titulo": "Mobilidade ombros (5min)", "duracaoMin": 5, "categoria": "mobilidade", "thumb": "/thumbs/ombros.jpg" },
+    { "id": "VID-10", "titulo": "Circuito funcional guiado (12min)", "duracaoMin": 12, "categoria": "força", "thumb": "/thumbs/circuito.jpg" },
+    { "id": "VID-12", "titulo": "Jogo cooperativo em duplas (8min)", "duracaoMin": 8, "categoria": "cooperativo", "thumb": "/thumbs/coop.jpg" },
+    { "id": "VID-15", "titulo": "Cardio leve indoor (15min)", "duracaoMin": 15, "categoria": "cardio", "thumb": "/thumbs/cardio.jpg" }
+  ]
+}
