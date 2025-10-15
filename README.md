@@ -9,6 +9,8 @@ Demo 100% front-end (App Router) com três perfis:
 - Escola/Coordenação.
 
 Fluxos com dados fake em localStorage.
+<img width="873" height="192" alt="image" src="https://github.com/user-attachments/assets/e6d19fca-566c-40fc-bbdc-2107016ae1c0" />
+
 
 ## Stack
 - Next.js, App Router, Route Handlers (`/api/*`)
