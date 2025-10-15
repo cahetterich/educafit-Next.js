@@ -1,4 +1,4 @@
-// File: D:\Pessoal\FIAP\WEB_DESIGN-GRADUATION\2025\testes\02\educafit-next0\app\(public)\(site)\page.jsx
+// File: D:\Pessoal\FIAP\WEB_DESIGN-GRADUATION\2025\6 Fase\educafit-Next.js\app\(public)\(site)\page.jsx
 import * as entry from '../../../../../app/(public)/(site)/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 

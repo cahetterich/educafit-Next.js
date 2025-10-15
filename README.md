@@ -1,7 +1,11 @@
 # EducaFit — Web (Next.js)
 
 ## Visão geral
-Demo 100% front-end (App Router) com três perfis: Aluno, Professor e Escola/Coordenação.
+Demo 100% front-end (App Router) com três perfis: 
+- Aluno, 
+- Professor 
+- Escola/Coordenação.
+
 Fluxos com dados fake em localStorage.
 
 ## Stack
