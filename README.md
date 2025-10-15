@@ -1,7 +1,8 @@
 # EducaFit — Web (Next.js)
 
 ## Visão geral
-Landing, manifesto e auth (login, signup, recovery) em Next (App Router), i18n (PT/EN), tema dark/light persistente, navbar com pílulas e footer condicional.
+Demo 100% front-end (App Router) com três perfis: Aluno, Professor e Escola/Coordenação.
+Fluxos com dados fake em localStorage.
 
 ## Stack
 - Next.js, App Router, Route Handlers (`/api/*`)
@@ -13,3 +14,4 @@ Landing, manifesto e auth (login, signup, recovery) em Next (App Router), i18n (
 ```bash
 npm i
 npm run dev
+# http://localhost:3000
