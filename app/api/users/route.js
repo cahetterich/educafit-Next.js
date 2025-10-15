@@ -1,5 +1,5 @@
 // app/api/users/route.js
-import { db } from '@/lib/mockDb';
+import { db } from '../../../lib/mockDb'
 
 export async function GET() {
   // demo: não retorna senha

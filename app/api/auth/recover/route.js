@@ -1,5 +1,5 @@
 // app/api/auth/recover/route.js
-import { db } from '@/lib/mockDb';
+import { db } from '../../../../lib/mockDb'
 
 export async function POST(req) {
   const { email } = await req.json();

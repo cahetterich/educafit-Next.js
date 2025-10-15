@@ -1,5 +1,5 @@
 // app/api/auth/login/route.js
-import { db } from '@/lib/mockDb';
+import { db } from '../../../../lib/mockDb';
 
 export async function POST(req) {
   const { email, pass } = await req.json();

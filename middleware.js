@@ -7,7 +7,7 @@ const RULES = [
   { startsWith: '/escola', allow: ['escola'] },
 ];
 
-export function middleware(req) {
+export default function middleware(req) {
   const role = req.cookies.get('edufit.role')?.value;
   const path = req.nextUrl.pathname;
 
